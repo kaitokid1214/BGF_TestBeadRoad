@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bgf_loading",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Video_img/poker_card_0": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": -25
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Video_img/poker_card_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -25
+            },
+            {
+              "frame": 0.25,
+              "value": 25
+            },
+            {
+              "frame": 0.5,
+              "value": -25
+            }
+          ]
+        }
+      },
+      "Video_img/bg": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 150
+            },
+            {
+              "frame": 0.5,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "Video_img": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bgf_roomMessage": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

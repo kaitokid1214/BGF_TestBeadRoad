@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bgf_frame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "frame_bet_inf": {
+      "__uuid__": "187a022e-f55d-4d45-a7a2-659ac8710e57"
+    },
+    "frame_betpump": {
+      "__uuid__": "88b01cd4-a595-4552-8810-23f378683586"
+    },
+    "frame_enterbox_s1": {
+      "__uuid__": "f539fe8c-c611-4b74-831f-2b3191fb53ba"
+    },
+    "frame_enterbox_s2": {
+      "__uuid__": "1feaf7ce-55d8-4d0f-b0a1-473ad2ebf30e"
+    },
+    "frame_operating": {
+      "__uuid__": "5c03c0be-0ba3-4124-a571-fb9732043fee"
+    },
+    "frame_player": {
+      "__uuid__": "7061de15-a460-452b-b318-3f6b46c26e72"
+    },
+    "frame_player2": {
+      "__uuid__": "01aa66d8-c4e1-4d10-a83b-ab0ec5256520"
+    },
+    "frame_table_BGF": {
+      "__uuid__": "3bbcb71e-c836-4e4a-b4d2-14330d34ab23"
+    },
+    "frame_tex": {
+      "__uuid__": "03f740d7-7ad1-4b3d-a386-84bb4ebc138c"
+    },
+    "frame_timebar": {
+      "__uuid__": "c1d1945e-41bf-49b9-a7dc-f4fcf358b0ab"
+    }
+  }
+}

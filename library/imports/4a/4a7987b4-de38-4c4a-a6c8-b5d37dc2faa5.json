@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgf_icon",
+    "texture": "47d1af81-453a-45d0-9b33-298801df35e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      558,
+      509
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      560,
+      509
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

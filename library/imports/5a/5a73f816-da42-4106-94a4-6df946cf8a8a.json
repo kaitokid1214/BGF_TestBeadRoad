@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgf_chip",
+    "texture": "82f5124d-9a87-44fe-a3d9-5f741859427f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      408,
+      224
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      408,
+      224
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

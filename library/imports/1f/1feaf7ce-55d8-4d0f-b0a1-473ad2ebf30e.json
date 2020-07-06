@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_enterbox_s2",
+    "texture": "c2fb00b5-aeb6-4d12-be80-96c210f52f73",
+    "atlas": "90856575-8fd5-45c5-9ae5-9d4758271307",
+    "rect": [
+      775,
+      561,
+      40,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      28
+    ],
+    "rotated": 1,
+    "capInsets": [
+      15,
+      0,
+      15,
+      0
+    ]
+  }
+}

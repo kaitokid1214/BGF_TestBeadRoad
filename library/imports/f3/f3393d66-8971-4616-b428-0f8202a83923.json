@@ -1,0 +1,510 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ShowCard_H_show",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.25,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "mask": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 334
+            },
+            {
+              "frame": 0.5,
+              "value": 334
+            }
+          ]
+        }
+      },
+      "frame_operating": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "result_title": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                104
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                104
+              ]
+            }
+          ]
+        }
+      },
+      "vs_title": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -18
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                -18
+              ]
+            }
+          ]
+        }
+      },
+      "black": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -314,
+                -13
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -314,
+                -13
+              ]
+            }
+          ]
+        }
+      },
+      "red": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                314,
+                -13
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                314,
+                -13
+              ]
+            }
+          ]
+        }
+      },
+      "black/win_line/light_T": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -200,
+                90
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                100,
+                90
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "black/win_line/light_D": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                200,
+                -90
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -100,
+                -90
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "black/win_line/frame": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "black/tie_line/frame": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "black/tie_line/light_T": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -200,
+                93
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                100,
+                93
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "black/tie_line/light_D": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                200,
+                -93
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -100,
+                -93
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red/tie_line/light_D": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                200,
+                -93
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -100,
+                -93
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red/win_line/light_D": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                200,
+                -90
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -100,
+                -90
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red/win_line/light_T": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -200,
+                90
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                100,
+                90
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red/tie_line/light_T": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -200,
+                93
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                100,
+                93
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red/win_line/frame": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red/tie_line/frame": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,503 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bgf_ShowCard_S_show",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.25,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "bgf_ShowDown_S/black/win_line/light_T": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -64,
+                88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                16,
+                88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/black/win_line/light_D": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                64,
+                -88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -16,
+                -88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/black/win_line/frame": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/black/tie_line/frame": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/black/tie_line/light_T": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -64,
+                88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                16,
+                88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/black/tie_line/light_D": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                64,
+                -88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -16,
+                -88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/red/tie_line/light_D": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                64,
+                -88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -16,
+                -88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/red/win_line/light_D": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                64,
+                -88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -16,
+                -88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/red/win_line/light_T": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -64,
+                88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                16,
+                88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/red/tie_line/light_T": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -64,
+                88
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                16,
+                88
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/red/win_line/frame": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/red/tie_line/frame": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/black": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -112,
+                22
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -112,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/red": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                112,
+                22
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                112,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/bg": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 236
+            },
+            {
+              "frame": 0.5,
+              "value": 236
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/frame_operating": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 230
+            },
+            {
+              "frame": 0.5,
+              "value": 230
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/vs_title": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bgf_ShowDown_S/result_title": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

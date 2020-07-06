@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_betpump",
+    "texture": "c2fb00b5-aeb6-4d12-be80-96c210f52f73",
+    "atlas": "90856575-8fd5-45c5-9ae5-9d4758271307",
+    "rect": [
+      723,
+      1,
+      110,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      80
+    ],
+    "rotated": 1,
+    "capInsets": [
+      40,
+      20,
+      40,
+      40
+    ]
+  }
+}

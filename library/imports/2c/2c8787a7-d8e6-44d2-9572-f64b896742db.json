@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bgf_chip.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_chip01": {
+      "__uuid__": "e2ae70ca-a515-4233-b492-1f5614104c59"
+    },
+    "btn_chip02": {
+      "__uuid__": "1ad9271a-7296-46e0-9f18-7629fb251560"
+    },
+    "btn_chip03": {
+      "__uuid__": "bbe0b419-e47a-4217-8acd-000a340dd0b6"
+    },
+    "btn_chip04": {
+      "__uuid__": "3e336abb-910a-45ab-a9b5-3361acb4ca4a"
+    },
+    "btn_chip05": {
+      "__uuid__": "1cc11887-6c2d-4fbd-b86b-4f12cb2c770f"
+    },
+    "btn_chip06": {
+      "__uuid__": "53351dbf-abc7-423f-ae18-7a271e44d568"
+    },
+    "btn_chip_edit": {
+      "__uuid__": "9a1afb55-3c3e-4dc3-a8ef-f741712f68c0"
+    },
+    "btn_chip_light": {
+      "__uuid__": "8eeae57e-5e73-4e0a-8403-ea247d37d42e"
+    }
+  }
+}

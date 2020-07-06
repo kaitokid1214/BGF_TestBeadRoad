@@ -1,0 +1,163 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ShowCard_H_ZoomOut",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "mask": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 334
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "frame_operating": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                -210
+              ]
+            }
+          ]
+        }
+      },
+      "result_title": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                104
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                120
+              ]
+            }
+          ]
+        }
+      },
+      "vs_title": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -18
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                -25
+              ]
+            }
+          ]
+        }
+      },
+      "black": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -314,
+                -13
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -240,
+                -13
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -860,
+                -13
+              ]
+            }
+          ]
+        }
+      },
+      "red": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                314,
+                -13
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                240,
+                -13
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                860,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

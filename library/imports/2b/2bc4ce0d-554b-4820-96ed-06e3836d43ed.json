@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bgf_recode.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bgf_black": {
+      "__uuid__": "beaff853-1b40-4158-8226-a337c78988b5"
+    },
+    "bgf_blacklucky": {
+      "__uuid__": "03273180-47d4-447c-9826-3cefb557a030"
+    },
+    "bgf_red": {
+      "__uuid__": "c13cb7d1-205c-4763-8ac3-8355c2de482f"
+    },
+    "bgf_redlucky": {
+      "__uuid__": "78bd2deb-9231-424c-b6c3-5b96f844220f"
+    },
+    "timeball": {
+      "__uuid__": "7034f2be-e99c-4860-9c5d-5b79a0efce6b"
+    },
+    "zhulu_32x32": {
+      "__uuid__": "51b8af17-9f63-4a39-978d-d1c0f8d40105"
+    },
+    "zhulu_40x40": {
+      "__uuid__": "d38e3384-2513-4478-8c9a-68b9a6dd4e55"
+    },
+    "zhulu_50x50": {
+      "__uuid__": "3d75bc43-eaa9-4167-abd1-24bc0ccbcd64"
+    }
+  }
+}

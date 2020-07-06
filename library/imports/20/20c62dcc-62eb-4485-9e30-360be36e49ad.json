@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgf_poker",
+    "texture": "c9303ae4-8030-48c6-90f2-08547b5d97a0",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1228,
+      485
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      1232,
+      488
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

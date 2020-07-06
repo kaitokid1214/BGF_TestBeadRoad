@@ -1,0 +1,266 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bgf_icon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ava_v4_01": {
+      "__uuid__": "f69b09eb-b24e-43b1-a0ef-3011e9f979f4"
+    },
+    "ava_v4_02": {
+      "__uuid__": "6a81ec18-aa8e-4709-931c-ab803a83013a"
+    },
+    "ava_v4_03": {
+      "__uuid__": "8b7c4836-dd93-41d1-b8c3-e43cc9228c2a"
+    },
+    "ava_v4_04": {
+      "__uuid__": "4210aafc-caf8-4fe2-a83f-cd60bf72f0d1"
+    },
+    "ava_v4_05": {
+      "__uuid__": "c2717b82-337b-45fd-8e17-696fe7ae0006"
+    },
+    "ava_v4_06": {
+      "__uuid__": "2e3284d5-fa09-4d66-83e8-d65b8e774411"
+    },
+    "ava_v4_07": {
+      "__uuid__": "7a20a160-29a3-428f-bdd2-a5452466dddd"
+    },
+    "ava_v4_08": {
+      "__uuid__": "fa2ca8a5-c5a0-4ba9-9523-59f450a99617"
+    },
+    "ava_v4_09": {
+      "__uuid__": "4cba0785-1374-4b43-a563-0cafee3adc4f"
+    },
+    "ava_v4_10": {
+      "__uuid__": "fbe95079-8e26-4b89-91fc-af730c1d73e1"
+    },
+    "ava_v4_11": {
+      "__uuid__": "347db6d4-254a-47df-83aa-2b6f200efaea"
+    },
+    "ava_v4_12": {
+      "__uuid__": "90e87b4f-44b9-488e-90a7-c7712cde564a"
+    },
+    "ava_v4_13": {
+      "__uuid__": "398d3b36-4c7a-40bf-a39e-0182cdaa89e6"
+    },
+    "ava_v4_14": {
+      "__uuid__": "81d7452f-2217-4230-aca5-94bfad5d91d9"
+    },
+    "ava_v4_15": {
+      "__uuid__": "e14a8f06-389e-4f8d-a4f1-3cd3fae206f8"
+    },
+    "country_CN": {
+      "__uuid__": "f4666bf2-d69e-44fc-89fb-090f077bed8b"
+    },
+    "country_JP": {
+      "__uuid__": "f4c76797-961c-48bd-8140-45f65edbaba2"
+    },
+    "country_KR": {
+      "__uuid__": "b3bcfe70-8097-4aa8-94a5-ca3f3ff2e401"
+    },
+    "country_UK": {
+      "__uuid__": "cb85e1a8-ad1d-4382-a00a-ba3bf4086ff5"
+    },
+    "emoji-000": {
+      "__uuid__": "c985a884-22ef-4b30-9033-e7da816ea26f"
+    },
+    "emoji-001": {
+      "__uuid__": "ba31a895-985a-49c7-8836-6b2185b6cfc5"
+    },
+    "emoji-002": {
+      "__uuid__": "1cb19abd-1585-43df-8685-682b2c48c048"
+    },
+    "emoji-003": {
+      "__uuid__": "00d04738-d3a8-4e84-8a11-95e1d5bc8073"
+    },
+    "emoji-004": {
+      "__uuid__": "efb7839d-9c1e-457a-9e59-f2c353fce7ae"
+    },
+    "emoji-005": {
+      "__uuid__": "5b3275c8-e1f2-4166-a760-214fcfd8d6f3"
+    },
+    "emoji-006": {
+      "__uuid__": "0e5f6283-01d7-4508-84b4-3724c56b09f6"
+    },
+    "emoji-007": {
+      "__uuid__": "5884437a-be96-4fc2-bc1c-f8afbd5e7f34"
+    },
+    "emoji-008": {
+      "__uuid__": "5a5eb355-05a0-4be3-a073-1a2edb405fff"
+    },
+    "emoji-009": {
+      "__uuid__": "36164699-ed88-471c-8329-eecd7eadb4b0"
+    },
+    "emoji-010": {
+      "__uuid__": "11d4aa1a-09c5-40fa-8c72-ce7dfbf8cf35"
+    },
+    "emoji-011": {
+      "__uuid__": "42dd2cd7-3f82-42d0-bb4b-28138d20fe23"
+    },
+    "emoji-012": {
+      "__uuid__": "6c5b3f21-86e6-40be-b1a9-0643c167d77b"
+    },
+    "emoji-013": {
+      "__uuid__": "9c5d127c-c14b-4d94-bfa1-82a822e8b9aa"
+    },
+    "emoji-014": {
+      "__uuid__": "5a50fe06-cde2-40d1-8f38-7b6e7d50b53d"
+    },
+    "emoji-015": {
+      "__uuid__": "786b467d-d498-48ed-93aa-f60659caafcd"
+    },
+    "emoji-016": {
+      "__uuid__": "06af6f9f-dc1b-4091-ab08-9fd5b02fffad"
+    },
+    "emoji-017": {
+      "__uuid__": "bae7b2f0-7b8b-474d-b77c-ee97d80de45c"
+    },
+    "emoji-018": {
+      "__uuid__": "946c1a3c-d3fa-4102-ba5f-4a710d497036"
+    },
+    "emoji-019": {
+      "__uuid__": "9b28cac7-c6ea-4bbe-854d-d53de20a929e"
+    },
+    "emoji-020": {
+      "__uuid__": "e0f08bc9-b8fe-40d8-8ed7-7ea881718a03"
+    },
+    "emoji-021": {
+      "__uuid__": "532bda87-c09d-402c-8293-08dd8b06ccd8"
+    },
+    "emoji-022": {
+      "__uuid__": "455b9776-9caa-42a6-b702-94a81f6b849d"
+    },
+    "emoji-023": {
+      "__uuid__": "04ffdf40-0e29-4dde-b75c-01b24ff1b1c0"
+    },
+    "emoji-024": {
+      "__uuid__": "3cb0fe89-8c8f-48ae-9054-f39c02bdcd2a"
+    },
+    "emoji-025": {
+      "__uuid__": "2b8e8b37-4df4-4259-a7c1-e1bb860da87d"
+    },
+    "emoji-026": {
+      "__uuid__": "bd6b9545-1a66-4119-be50-f2f2a8255a01"
+    },
+    "emoji-027": {
+      "__uuid__": "501b984e-e9ee-443f-927d-e26fd1cf24b7"
+    },
+    "emoji-028": {
+      "__uuid__": "e4097b4b-0450-44cb-bb72-7d9e273933e1"
+    },
+    "emoji-029": {
+      "__uuid__": "983a5925-7c92-4313-b275-fc9c2660f4f6"
+    },
+    "emoji-030": {
+      "__uuid__": "1d95e597-1e2b-40d4-b54d-841342a8a4b2"
+    },
+    "emoji-031": {
+      "__uuid__": "c2ce8f02-6236-4e09-8208-67b5d1422ab6"
+    },
+    "emoji-032": {
+      "__uuid__": "82093ef9-c5a8-4816-9ac2-4586897002b7"
+    },
+    "emoji-033": {
+      "__uuid__": "6b8b6934-ebe9-4a29-b2b8-531c18c535ab"
+    },
+    "emoji-034": {
+      "__uuid__": "b8060d84-3fe8-49ad-97b0-7539a3720297"
+    },
+    "emoji-035": {
+      "__uuid__": "38ade95d-aab4-4719-b416-0679bfd98655"
+    },
+    "emoji-036": {
+      "__uuid__": "51264f70-713f-4c11-8bb3-d7b73d565d7a"
+    },
+    "emoji-037": {
+      "__uuid__": "1ed8e787-624b-488c-af1c-9ed2816f0ba2"
+    },
+    "emoji-038": {
+      "__uuid__": "441785b8-32ed-4e2d-b405-0ed3973c9aaa"
+    },
+    "emoji-039": {
+      "__uuid__": "b17d3e0c-3de0-4053-9c76-22408c473580"
+    },
+    "emoji-040": {
+      "__uuid__": "9dc61d6a-7ef2-4768-8bc0-74ea02ac47a0"
+    },
+    "emoji-041": {
+      "__uuid__": "ce883d1f-eef6-4959-9e09-53a03d17cc1e"
+    },
+    "emoji-042": {
+      "__uuid__": "589146ac-c50c-444f-ae83-84bc8c145ecd"
+    },
+    "emoji-043": {
+      "__uuid__": "36564589-35fc-47c8-a265-9def8136a6ad"
+    },
+    "emoji-044": {
+      "__uuid__": "072aaa09-fc41-42ad-81b4-fa64256cc28b"
+    },
+    "emoji-045": {
+      "__uuid__": "6489cf49-91ba-468f-8f45-ac76c80a38a0"
+    },
+    "emoji-046": {
+      "__uuid__": "4d2a0e71-b817-4d4a-b3b4-3789ae8fd3fb"
+    },
+    "emoji-047": {
+      "__uuid__": "1f34e0d7-eab3-4dad-bbab-8111cf2d8976"
+    },
+    "emoji-048": {
+      "__uuid__": "c9a2055f-5853-4a2c-966a-b36254c577b1"
+    },
+    "emoji-049": {
+      "__uuid__": "92a00e34-3bd8-4ee4-b270-9a3deec64b73"
+    },
+    "emoji-050": {
+      "__uuid__": "db1c5a40-d7e2-4e24-b45d-2760721ac61d"
+    },
+    "emoji-051": {
+      "__uuid__": "4d5d5a49-0ab0-4984-91e7-0eb6a9487f8b"
+    },
+    "emoji-052": {
+      "__uuid__": "b0b875e9-026b-4c2d-a909-7709889300aa"
+    },
+    "emoji-053": {
+      "__uuid__": "e174317c-d023-448f-bed5-5a8818b7afe8"
+    },
+    "emoji-054": {
+      "__uuid__": "e3eadb62-1d5e-41eb-aef4-e99cc09a948f"
+    },
+    "emoji-055": {
+      "__uuid__": "32e94b78-d136-4c0e-b365-1d0f26f8b4e8"
+    },
+    "emoji-056": {
+      "__uuid__": "6ff8a62f-4d74-475f-b08a-7623cd7f67b6"
+    },
+    "emoji-057": {
+      "__uuid__": "a802a60d-a796-4775-be43-56a7b5e46763"
+    },
+    "emoji-058": {
+      "__uuid__": "61f767ce-d8ae-48a3-8874-beec9d8fa50f"
+    },
+    "emoji-059": {
+      "__uuid__": "db058334-5109-4b80-bfce-332a1b095fed"
+    },
+    "emoji-060": {
+      "__uuid__": "8def659d-0d13-4dcd-9912-97486850fa38"
+    },
+    "emoji-061": {
+      "__uuid__": "efb5f66e-39c8-450a-a282-df53eadafc17"
+    },
+    "emoji-062": {
+      "__uuid__": "23644ce4-037a-484b-8ab1-8353fbf2274c"
+    },
+    "emoji-063": {
+      "__uuid__": "7839d809-4cf5-4bfe-a038-657668e508be"
+    },
+    "emoji-064": {
+      "__uuid__": "79debe36-8ab5-44d7-bc6c-dd53decf7ea7"
+    },
+    "emoji-065": {
+      "__uuid__": "5b7527fc-16d9-4b45-b95d-47919d3c9106"
+    },
+    "emoji-066": {
+      "__uuid__": "736ba925-db64-43aa-8c85-a68a67c6849f"
+    }
+  }
+}
